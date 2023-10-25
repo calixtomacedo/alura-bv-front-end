@@ -18,10 +18,13 @@
 *.zip
 *.tar.gz
 *.rar
+*.vscode
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
 
-/node_modules
-/servidor-api/node_modules
+
+/typescript/typescript-curso-i/node_modules
+/typescript/typescript-curso-i/servidor-api/
+/typescript/typescript-curso-ii/servidor-api/
