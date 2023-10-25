@@ -23,5 +23,5 @@
 hs_err_pid*
 replay_pid*
 
-#/node_modules
-#/servidor-api/node_modules
+/node_modules
+/servidor-api/node_modules
