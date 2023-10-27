@@ -2,6 +2,11 @@
 
 Formações em Front-end
 
+Run the project:
+npm install
+npm audit fix
+npm install -g npm-check-updates // caso apareça algum fix
+
 - 01 typescript: Melhore sua experiência de desenvolvimento com TypeScript Conheça o superconjunto JavaScript com sintaxe para tipos! https://cursos.alura.com.br/formacao-typescript
 * 1.0 Javascript ou Typescript?
 * 1.1 typescript-curso-i - Curso de TypeScript parte 1: evoluindo seu JavaScript: https://cursos.alura.com.br/course/typescript-evoluindo-javascript
