@@ -1,0 +1,64 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio Thamyres",
+      "autoria": "Thamyres",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom que você veio Calixto",
+      "autoria": "Calixto",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Que bom que você veio Davi Lucca",
+      "autoria": "Davi Lucca",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Que bom que você veio Rosy",
+      "autoria": "Rosy",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 5,
+      "conteudo": "Que bom que você veio Izabel",
+      "autoria": "Izabel",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 6,
+      "conteudo": "Que bom que você veio Geraldo",
+      "autoria": "Geraldo",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 7,
+      "conteudo": "Que bom que você veio Silvia",
+      "autoria": "Silvia",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "Que bom que você veio Giovam",
+      "autoria": "Giovam",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 9,
+      "conteudo": "Que bom que você veio Vanda",
+      "autoria": "Vanda",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 10,
+      "conteudo": "Que bom que você veio Jane",
+      "autoria": "Jane",
+      "modelo": "modelo1"
+    }
+  ]
+}
