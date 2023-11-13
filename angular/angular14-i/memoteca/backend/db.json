@@ -16,7 +16,7 @@
       "id": 3,
       "conteudo": "Que bom que você veio Davi Lucca",
       "autoria": "Davi Lucca",
-      "modelo": "modelo3"
+      "modelo": "modelo2"
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
       "id": 7,
       "conteudo": "Que bom que você veio Silvia",
       "autoria": "Silvia",
-      "modelo": "modelo1"
+      "modelo": "modelo3"
     },
     {
       "id": 8,
@@ -59,6 +59,18 @@
       "conteudo": "Que bom que você veio Jane",
       "autoria": "Jane",
       "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Pensamento cadastro via API",
+      "autoria": "Meu App",
+      "modelo": "modelo2",
+      "id": 11
+    },
+    {
+      "conteudo": "Pensamento do Caio Editado",
+      "autoria": "Caio Macedo",
+      "modelo": "modelo2",
+      "id": 12
     }
   ]
 }
