@@ -32,3 +32,8 @@ npm start
 ## Running application
 ng serve
 or ng serve --open
+
+Criando um novo componente:
+ng generate component componentes/pensamentos/listar-pensamento/botao-carregar-paginas
+or 
+ng g c componentes/pensamentos/listar-pensamento/botao-carregar-paginas
