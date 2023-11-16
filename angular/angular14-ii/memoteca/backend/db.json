@@ -4,150 +4,175 @@
       "id": 1,
       "conteudo": "Que bom que você veio Thamyres",
       "autoria": "Thamyres",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Que bom que você veio Calixto",
       "autoria": "Calixto",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Que bom que você veio Davi Lucca",
       "autoria": "Davi Lucca",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Que bom que você veio Rosy",
       "autoria": "Rosy",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 5,
       "conteudo": "Que bom que você veio Izabel",
       "autoria": "Izabel",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 6,
       "conteudo": "Que bom que você veio Geraldo",
       "autoria": "Geraldo",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 7,
       "conteudo": "Que bom que você veio Silvia",
       "autoria": "Silvia",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 8,
       "conteudo": "Que bom que você veio Giovam",
       "autoria": "Giovam",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 9,
       "conteudo": "Que bom que você veio Vanda",
       "autoria": "Vanda",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 10,
       "conteudo": "Que bom que você veio Jane",
       "autoria": "Jane",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 11,
       "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis. Negão é teu passadis, eu sou faxa pretis.",
       "autoria": "Antônio Carlos Bernardes Gomes",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 12,
       "conteudo": "Calixto Rodrigues Macedo",
       "autoria": "Calixto Macedo",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Primeiro modelo de pensamentos",
       "autoria": "Eu mesmo",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 13
     },
     {
       "conteudo": "Segundo modelo de pensamentos",
       "autoria": "Eu também",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 14
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa ",
       "autoria": "Mãe",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 15
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 01",
       "autoria": "Mãe",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 16
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 02",
       "autoria": "Mãe",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 17
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 03",
       "autoria": "Mãe",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 18
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 04",
       "autoria": "Mãe",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 19
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 05",
       "autoria": "Mãe",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 20
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 06",
       "autoria": "Mãe",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 21
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 07",
       "autoria": "Mãe",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 22
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 08",
       "autoria": "Mãe",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 23
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 09",
       "autoria": "Mãe",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 24
     },
     {
       "conteudo": "Eu vou de dar um coro quando chegar em casa 10",
       "autoria": "Mãe",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 25
     }
   ]

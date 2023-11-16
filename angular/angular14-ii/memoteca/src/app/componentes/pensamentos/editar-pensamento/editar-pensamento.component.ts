@@ -29,6 +29,7 @@ export class EditarPensamentoComponent implements OnInit {
         //conteudo: ['',                Validators.compose([Validators.required, Validators.pattern(/(.|\s)*\S(.|\s)*/)])],
         autoria: [pensamento.autoria, Validators.compose([Validators.required, Validators.minLength(3)])],
         modelo: [pensamento.modelo],
+        favorito: [pensamento.favorito]
       });
     });
   }

@@ -44,5 +44,11 @@ export class PensamentoService {
     return this.http.delete<Pensamento>(url);
   }
 
+  public mudarFavorito(pensamento: Pensamento): Observable<Pensamento> {
+    pensamento.favorito = !pensamento.favorito;
+    const url = `${this.API}/${pensamento.id}`;
+    return this.editar(pensamento);
+  }
+
 
 }
