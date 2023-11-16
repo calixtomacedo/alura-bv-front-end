@@ -16,7 +16,7 @@ export class PensamentoService {
     return this.http.post<Pensamento>(this.API, pensamento);
   }
 
-  public listar(pagina: number, filtro: string): Observable<Array<Pensamento>> {
+  public listar(pagina: number, filtro: string, favoritos: boolean): Observable<Array<Pensamento>> {
     const itensPorPagina = 6;
     let params = new HttpParams()
       .set("_page", pagina)
@@ -25,6 +25,10 @@ export class PensamentoService {
       if(filtro.trim().length > 2) {
         params = params.set("q", filtro)
       }
+
+      if(favoritos) [
+        params = params.set("favorito", true)
+      ]
 
     return this.http.get<Array<Pensamento>>(this.API, { params })
   }
