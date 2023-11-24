@@ -1,4 +1,4 @@
-<input class="checkbox" type="checkbox" name="comprado" id="comprado" [checked]="item.comprado" />
+<input class="checkbox" type="checkbox" name="comprado" id="comprado" [checked]="item.comprado" (change)="checarItem()" />
 
 <p class="description">{{ item.nome }}</p>
 
