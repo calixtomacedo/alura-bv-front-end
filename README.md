@@ -20,3 +20,4 @@ npm install -g npm-check-updates // caso apareça algum fix
 * 1.3 angular14-ii Curso de Angular 14: evoluindo a aplicação - https://cursos.alura.com.br/course/angular-evoluindo-aplicacao
 * 1.4 angular Curso de Angular: formulários orientados a templates - https://cursos.alura.com.br/course/angular-formularios-orientados-templates 
 * 1.5 angular-i Curso de Angular: ciclo de vida - https://cursos.alura.com.br/course/angular-ciclo-vida
+* 1.6 rxjs-e-angular Curso de RxJS e Angular: programando de forma reativa - https://cursos.alura.com.br/course/rxjs-angular-programando-forma-reativa
