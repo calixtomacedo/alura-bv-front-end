@@ -1,5 +1,9 @@
 # alura-bv-front-end
 
+## Running application
+ng serve
+or ng serve --open
+
 Formações em Front-end
 
 Run the project:
