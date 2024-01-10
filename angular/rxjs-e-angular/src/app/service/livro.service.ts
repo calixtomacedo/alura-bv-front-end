@@ -7,6 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class LivroService {
 
+  // https://developers.google.com/books
   private readonly API = 'https://www.googleapis.com/books/v1/volumes';
 
   constructor(private http: HttpClient) { }
