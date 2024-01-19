@@ -1,8 +1,9 @@
-import { VolumeInfo } from './../../models/interfaces';
+import { Item, VolumeInfo } from './../../models/interfaces';
 import { Subscription } from 'rxjs';
 import { LivroService } from './../../service/livro.service';
 import { Component, OnDestroy } from '@angular/core';
 import { Livro } from 'src/app/models/interfaces';
+import { LivroVolumeInfo } from 'src/app/models/livroVolumeeInfo';
 
 @Component({
   selector: 'app-lista-livros',
@@ -35,22 +36,10 @@ export class ListaLivrosComponent implements OnDestroy {
     });
   }
 
-  public livrosResponseParaLivros(items): Array<Livro> {
-    const livros: Array<Livro> = new Array();
-    items.forEach(item => {
-      livros.push(
-        this.livro = {
-          title: item.volumeInfo?.title,
-          authors: item.volumeInfo?.authors,
-          publisher: item.volumeInfo?.publisher,
-          publishedDate: item.volumeInfo?.publishedDate,
-          description: item.volumeInfo?.description,
-          previewLink: item.volumeInfo?.previewLink,
-          thumbnail: item.volumeInfo?.imageLinks?.thumbnail
-        }
-      );
-    });
-    return livros;
+  public livrosResponseParaLivros(items: Array<Item>): Array<LivroVolumeInfo> {
+    return items.map(item => {
+      return new LivroVolumeInfo(item);
+    })
   }
 
 }
