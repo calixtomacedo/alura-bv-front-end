@@ -26,3 +26,4 @@ npm install -g npm-check-updates // caso apareça algum fix
 * 1.5 angular-i Curso de Angular: ciclo de vida - https://cursos.alura.com.br/course/angular-ciclo-vida
 * 1.6 rxjs-e-angular Curso de RxJS e Angular: programando de forma reativa - https://cursos.alura.com.br/course/rxjs-angular-programando-forma-reativa
 * 1.7 angular-ii Curso de Angular: torne sua aplicação interativa e personalizada com animações - https://cursos.alura.com.br/course/angular-aplicacao-interativa-personalizada-animacoes
+* 1.8 angular-iii Curso de Angular: Angular: aprimore suas técnicas de animação e crie interfaces ainda mais atraentes - https://cursos.alura.com.br/course/angular-tecnicas-animacao-interfaces-atraentes
