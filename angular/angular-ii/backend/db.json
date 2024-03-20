@@ -38,7 +38,7 @@
     {
       "id": 7,
       "descricao": "Dar raça para o gato",
-      "statusFinalizado": false,
+      "statusFinalizado": true,
       "categoria": "Casa",
       "prioridade": "Alta"
     }
