@@ -69,11 +69,7 @@
         alt="Ilustração de um ambiente com mesa, computador, quadro e um vaso com planta">
   </div>
   <div *ngIf="listaTarefas.length > 0, else semTarefas">
-    <div
-      class="lista-tarefas card-{{ tarefa.categoria }}"
-      *ngFor="let tarefa of listaTarefas; let i = index"
-      (mouseover)="indexTarefa = i"
-      [@highlightedState]="indexTarefa === i ? 'highlighted' : 'default'">
+    <div class="lista-tarefas card-{{ tarefa.categoria }}" *ngFor="let tarefa of listaTarefas; let i = index" (mouseover)="indexTarefa = i" [@highlightedState]="indexTarefa === i ? 'highlighted' : 'default'">
       <div class="info-card">
         <p class="categoria-tarefa categoria-{{ tarefa.categoria }}">
           <img
@@ -87,9 +83,8 @@
         <p class="status-tarefa">
           <button
             [ngClass]="(tarefa.statusFinalizado == true) ? 'icone-checked' : 'icone-unchecked'"
-            (click)="finalizarTarefa(tarefa.id)"
-            [@checkButton]="(tarefa.id === id ? 'checked' : 'unchecked')"
-            >
+            (click)="finalizarTarefa(tarefa.id);" 
+            [@checkButton]="(tarefa.id === id ? 'checked' : 'unchecked')">
           </button>
         </p>
       </div>

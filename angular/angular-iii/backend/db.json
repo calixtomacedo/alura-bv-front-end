@@ -17,8 +17,8 @@
     {
       "id": 4,
       "descricao": "Preencher formulário de inscrição",
-      "categoria": "Trabalho",
-      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "statusFinalizado": false,
       "prioridade": "Normal"
     },
     {
@@ -31,29 +31,15 @@
     {
       "id": 6,
       "descricao": "Ler",
-      "categoria": "Estudos",
       "statusFinalizado": false,
-      "prioridade": "Normal"
-    },
-    {
-      "id": 7,
-      "descricao": "Alimentar os gatos",
-      "categoria": "Casa",
-      "statusFinalizado": true,
+      "categoria": "Estudos",
       "prioridade": "Alta"
     },
     {
-      "id": 8,
-      "descricao": "Criar animação de check",
-      "categoria": "Trabalho",
+      "id": 7,
+      "descricao": "Dar raça para o gato",
       "statusFinalizado": true,
-      "prioridade": "Normal"
-    },
-    {
-      "id": 9,
-      "descricao": "Fazer curso de animações",
-      "statusFinalizado": true,
-      "categoria": "Estudos",
+      "categoria": "Casa",
       "prioridade": "Alta"
     }
   ]
