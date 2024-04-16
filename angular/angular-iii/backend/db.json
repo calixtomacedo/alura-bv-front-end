@@ -22,13 +22,6 @@
       "prioridade": "Normal"
     },
     {
-      "id": 5,
-      "descricao": "Trocar lâmpada",
-      "categoria": "Casa",
-      "statusFinalizado": true,
-      "prioridade": "Alta"
-    },
-    {
       "id": 6,
       "descricao": "Ler",
       "statusFinalizado": false,
@@ -47,6 +40,13 @@
       "descricao": "calixto novo",
       "categoria": "Casa",
       "statusFinalizado": false,
+      "prioridade": "Alta"
+    },
+    {
+      "id": 10,
+      "descricao": "Calixto hoje",
+      "statusFinalizado": true,
+      "categoria": "Trabalho",
       "prioridade": "Alta"
     }
   ]
