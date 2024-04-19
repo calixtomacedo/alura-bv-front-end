@@ -27,3 +27,4 @@ npm install -g npm-check-updates // caso apareça algum fix
 * 1.6 rxjs-e-angular Curso de RxJS e Angular: programando de forma reativa - https://cursos.alura.com.br/course/rxjs-angular-programando-forma-reativa
 * 1.7 angular-ii Curso de Angular: torne sua aplicação interativa e personalizada com animações - https://cursos.alura.com.br/course/angular-aplicacao-interativa-personalizada-animacoes
 * 1.8 angular-iii Curso de Angular: Angular: aprimore suas técnicas de animação e crie interfaces ainda mais atraentes - https://cursos.alura.com.br/course/angular-tecnicas-animacao-interfaces-atraentes
+* 1.9 angular-iv Curso de Angular: Acessibilidade no Angular: aprimorando formulários, modais e rotas
